@@ -5,7 +5,7 @@ Having knowledge to create web automation using Selenium phyton. API Testing usi
 - 📫 How to reach me **krisnayulian48@gmail.com**
 
 
-<h2 align="left">The base URL : https://saucedemo.com/](https://katalon-demo-cura.herokuapp.com/</h2>
+<h2 align="left">The base URL : https://katalon-demo-cura.herokuapp.com/</h2>
 
 
 
